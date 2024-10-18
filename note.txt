@@ -1,0 +1,5 @@
+npm i <packagename> : esle local dependency ma add garxa where it can only be used in current peoject.
+npm install -g <packagename> :else globally add garxa.
+package.json : necessay to add external packages from npm.
+npm innit : step by step add a package json. 
+npm init -y : adds a package json with all the default values.
