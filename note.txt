@@ -3,3 +3,7 @@ npm install -g <packagename> :else globally add garxa.
 package.json : necessay to add external packages from npm.
 npm innit : step by step add a package json. 
 npm init -y : adds a package json with all the default values.
+
+# settimeout is async even if the timer is set to 0. To learn more imp topic research on event cycle.
+# When a file is very big it might be that the variable cant store them properly. For that reason Streams are used.
+# 
